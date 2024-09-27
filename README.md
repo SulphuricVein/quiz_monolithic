@@ -24,7 +24,7 @@ Clone the repository
 
 ```bash
 https://github.com/SulphuricVein/quiz_monolithic.git
-cd quiz-application
+cd quizapp
 
 ```
 Install PostgreSQL if not already installed.    
